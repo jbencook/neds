@@ -6,3 +6,9 @@
 
 # Python cache
 __pycache__/
+
+# coverage.py file
+.coverage
+
+# sqlite3
+db.sqlite3
